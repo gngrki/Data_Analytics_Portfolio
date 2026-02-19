@@ -37,7 +37,7 @@ This project focused on collecting and analysing primary data to identify relati
   Behavioural patterns  
   Differences between segments  
 ### 5. Insights and storytelling
-  Key findings included:
-    Participants preferred adventurous and social themes.  
-    Older groups preferred less complexity and more positive content.  
-    Respondents often chose complementary personality traits in companions.  
+  ##### Key findings included:  
+    * Participants preferred adventurous and social themes.  
+    * Older groups preferred less complexity and more positive content.  
+    * Respondents often chose complementary personality traits in companions.  
