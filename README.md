@@ -19,28 +19,34 @@ This project focused on collecting and analysing primary data to identify relati
 
 ## Process
 ### 1. Data collection
-  I designed and distributed an online questionnaire to collect behavioural and demographic data from participants.
-https://forms.office.com/r/sQTBBB6HMB
+  I designed and distributed an online questionnaire to collect behavioural and demographic data from participants.[View Full Questionnaire](https://forms.office.com/r/sQTBBB6HMB)  
+  Collected all data into Excel file ![Excel file of all data](Files/All_Data_From_Survey.xlsx)
 ### 2. Data preparation
   Cleaned raw data  
   Removed unnecessary variables  
   Standardised formats  
   Validated responses  
   Ensured data quality
-  <img width="721" height="296" alt="Excel Screenshot" src="https://github.com/user-attachments/assets/e5df964f-305c-479c-8c08-e81ea1f4e984" />
-
 ### 3. Data modelling and transformation using Power Query and Power BI
   Structured the dataset  
   Created relationships between tables  
   Converted data types  
   Built a usable data model  
+  ![Data Model](Screenshots/Power_Query_model.png)
 ### 4. Data analysis and visualisation with dashboards
   Age group trends  
   Personality and preference correlations  
   Behavioural patterns  
   Differences between segments  
+ ![PowerBI Dashboard screenshot](Screenshots/PowerBI_visual_screenshot.png)
 ### 5. Insights and storytelling
   ##### Key findings included:  
-    * Participants preferred adventurous and social themes.  
-    * Older groups preferred less complexity and more positive content.  
-    * Respondents often chose complementary personality traits in companions.  
+* Participants preferred adventurous and social themes.  
+  ![Movie themes picked](Screenshots/Picked_movie_themes.png)  
+* Older groups preferred less complexity and more positive content.  
+  ![Difference in segments](Screenshots/Difference_in_segments.png)  
+* Respondents often chose complementary personality traits in companions.
+    
+  ![Hero attribute correlation to companion](Screenshots/Adventure_genre_hero_companion.png)
+    
+  
