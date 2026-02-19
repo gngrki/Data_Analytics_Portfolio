@@ -28,17 +28,16 @@ This project focused on collecting and analysing primary data to identify relati
   Ensured data quality  
 ### 3. Data modelling and transformation using Power Query and Power BI
   Structured the dataset  
-  Created relationships between tables
-  Converted data types
-  Built a usable data model
-### 4. Data analysis and visualisation
-  I created dashboards to explore:
-  Age group trends
-  Personality and preference correlations
-  Behavioural patterns
-  Differences between segments
+  Created relationships between tables  
+  Converted data types  
+  Built a usable data model  
+### 4. Data analysis and visualisation with dashboards
+  Age group trends  
+  Personality and preference correlations  
+  Behavioural patterns  
+  Differences between segments  
 ### 5. Insights and storytelling
   Key findings included:
-    Participants preferred adventurous and social themes.
-    Older groups preferred less complexity and more positive content.
-    Respondents often chose complementary personality traits in companions.
+    Participants preferred adventurous and social themes.  
+    Older groups preferred less complexity and more positive content.  
+    Respondents often chose complementary personality traits in companions.  
