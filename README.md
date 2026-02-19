@@ -32,15 +32,19 @@ This project focused on collecting and analysing primary data to identify relati
   Created relationships between tables  
   Converted data types  
   Built a usable data model  
+    
   ![Data Model](Screenshots/Power_Query_model.png)
 ### 4. Data analysis and visualisation with dashboards
   Age group trends  
   Personality and preference correlations  
   Behavioural patterns  
   Differences between segments  
+  ![PowerBI file](Files/PowerBI_visual.pbix)
  ![PowerBI Dashboard screenshot](Screenshots/PowerBI_visual_screenshot.png)
 ### 5. Insights and storytelling
-  ##### Key findings included:  
+  Created a PowerPoint presentation
+   ![PowerPoint file](Files/Presentation.pptx)
+  #### Key findings included:  
 * Participants preferred adventurous and social themes.  
   ![Movie themes picked](Screenshots/Picked_movie_themes.png)  
 * Older groups preferred less complexity and more positive content.  
