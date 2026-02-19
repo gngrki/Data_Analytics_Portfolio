@@ -21,14 +21,13 @@ This project focused on collecting and analysing primary data to identify relati
 ### 1. Data collection
   I designed and distributed an online questionnaire to collect behavioural and demographic data from participants.
 ### 2. Data preparation
-  Cleaned raw data
-  Removed unnecessary variables
-  Standardised formats
-  Validated responses
-  Ensured data quality
-### 3. Data modelling and transformation
-  Using Power Query and Power BI, I:
-  Structured the dataset
+  Cleaned raw data  
+  Removed unnecessary variables  
+  Standardised formats  
+  Validated responses  
+  Ensured data quality  
+### 3. Data modelling and transformation using Power Query and Power BI
+  Structured the dataset  
   Created relationships between tables
   Converted data types
   Built a usable data model
