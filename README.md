@@ -19,8 +19,8 @@ This project focused on collecting and analysing primary data to identify relati
 
 ## Process
 ### 1. Data collection
-  I designed and distributed an online questionnaire to collect behavioural and demographic data from participants.[View Full Questionnaire](https://forms.office.com/r/sQTBBB6HMB)  
-  Collected all data into Excel file ![Excel file of all data](Files/All_Data_From_Survey.xlsx)
+  I designed and distributed an online questionnaire to collect behavioural and demographic data from participants [View Full Questionnaire](https://forms.office.com/r/sQTBBB6HMB)  
+  Collected all data into Excel file [Download Excel dataset (.xlsx)](Files/All_Data_From_Survey.xlsx)
 ### 2. Data preparation
   Cleaned raw data  
   Removed unnecessary variables  
@@ -38,10 +38,12 @@ This project focused on collecting and analysing primary data to identify relati
   Personality and preference correlations  
   Behavioural patterns  
   Differences between segments  
-  <img src="Screenshots/PowerBI_visual_screenshot.png" alt="PowerBI Dashboard screenshot" width="400"/> ![PowerBI file](Files/PowerBI_visual.pbix)
+  <img src="Screenshots/PowerBI_visual_screenshot.png" alt="PowerBI Dashboard screenshot" width="400"/>  
+  [Download PowerBI file (.pbix)](Files/PowerBI_visual.pbix)
 ### 5. Insights and storytelling
-  Created a PowerPoint presentation
-   ![PowerPoint file](Files/Presentation.pptx)
+  Created a PowerPoint presentation  
+  [PowerPoint presentation as PDF](Files/PowerPoint_Presentation.pdf)  
+  [Download PowerPoint file (.pptx)](Files/Presentation.pptx)
   #### Key findings included:  
 * Participants preferred adventurous and social themes.  
   <img src="Screenshots/Picked_movie_themes.png" alt="Movie themes picked" width="400"/>
