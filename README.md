@@ -32,25 +32,23 @@ This project focused on collecting and analysing primary data to identify relati
   Created relationships between tables  
   Converted data types  
   Built a usable data model  
-    
-  ![Data Model](Screenshots/Power_Query_model.png)
+  <img src="Screenshots/Power_Query_model.png" alt="Data model" width="400"/>  
 ### 4. Data analysis and visualisation with dashboards
   Age group trends  
   Personality and preference correlations  
   Behavioural patterns  
   Differences between segments  
-  ![PowerBI file](Files/PowerBI_visual.pbix)
- ![PowerBI Dashboard screenshot](Screenshots/PowerBI_visual_screenshot.png)
+  <img src="Screenshots/PowerBI_visual_screenshot.png" alt="PowerBI Dashboard screenshot" width="400"/> ![PowerBI file](Files/PowerBI_visual.pbix)
 ### 5. Insights and storytelling
   Created a PowerPoint presentation
    ![PowerPoint file](Files/Presentation.pptx)
   #### Key findings included:  
 * Participants preferred adventurous and social themes.  
-  ![Movie themes picked](Screenshots/Picked_movie_themes.png)  
+  <img src="Screenshots/Picked_movie_themes.png" alt="Movie themes picked" width="400"/>
 * Older groups preferred less complexity and more positive content.  
-  ![Difference in segments](Screenshots/Difference_in_segments.png)  
+  <img src="Screenshots/Difference_in_segments.png" alt="Difference in segments" width="400"/>
 * Respondents often chose complementary personality traits in companions.
     
-  ![Hero attribute correlation to companion](Screenshots/Adventure_genre_hero_companion.png)
+  <img src="Screenshots/Adventure_genre_hero_companion.png" alt="Hero attribute correlation to companion" width="400"/>
     
   
