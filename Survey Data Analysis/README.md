@@ -20,7 +20,7 @@ This project focused on collecting and analysing primary data to identify relati
 ## Process
 ### 1. Data collection
   I designed and distributed an online questionnaire to collect behavioural and demographic data from participants [View Full Questionnaire](https://forms.office.com/r/sQTBBB6HMB)  
-  Collected all data into Excel file [Download Excel dataset (.xlsx)](Files/All_Data_From_Survey.xlsx)
+  Collected all data into Excel file [See dataset in .csv](Files/All_Data_From_Survey.csv)
 ### 2. Data preparation
   Cleaned raw data  
   Removed unnecessary variables  
