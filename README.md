@@ -1,7 +1,7 @@
 # 📊Data Analytics Portfolio – Kätly Ala
 
 Hi! I'm a London-based aspiring Data Analyst with a background in operational management, market research, and multilingual content analysis.
-After 10 years in fast-paced managerial roles I transitioned into a data-focused path with recent completion of 168-hour Data Management & Analytics programme (BCS Digital Academy) and continous learning mindset.
+After 10 years in fast-paced managerial roles I transitioned into a data-focused path with recent completion of 168-hour Data Management & Analytics programme (BCS Digital Academy).
 
 ## 📂This repository showcases projects where I apply:
 
